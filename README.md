@@ -754,4 +754,76 @@ MIT License - see LICENSE file for details.
 
 *HexStrike AI v6.0 - Where artificial intelligence meets cybersecurity excellence*
 
+---
+
+## 킧رجمة عربية | Arabic Translation
+
+### هعرا ملخص للمشروع بالعربية:
+
+**HexStrike AI MCP وكلاء v6.0**
+
+#### منصة أتمتة بالذكاء الاصطناعي لأمان السيبر
+
+**مرحبابك في HexStrike AI** - طريقة الجيل القادم لاختبار الاختراق بقوة الذكاء الاصطناعي
+
+**الميزات الرئيسية:**
+
+- **أكثر من 150 أداة امنية** لاختبار الأمان
+- **12+ وكلاء الذكاء الاصطناعي** لاتخاذ قرارات ماهرة
+- **مسح الشبكة** - اكتشاف المنافذ وطماف الأنظمة
+- **التحليل الثنائي** - هندسة عكسية متقدمة
+- **الرائد السحابية** - اختبار أمان AWS و Azure و GCP
+- **الواجهات من الويب** - الاستكشاف والصلاحيب
+- **التطبيقات** - REST, GraphQL, والتطبيقات الويب
+
+### كيفية التثبيت
+
+#### 1. استنسخ مستودع المشروع
+
+```bash
+git clone https://github.com/rixd638/hexstrike-ai.git
+cd hexstrike-ai
+```
+
+#### 2. حرر البيئة
+
+```bash
+python3 -m venv hexstrike-env
+source hexstrike-env/bin/activate  # Linux/Mac
+```
+
+#### 3. التثبيت
+
+```bash
+pip3 install -r requirements.txt
+```
+
+#### 4. بدء الخادم
+
+```bash
+python3 hexstrike_server.py
+```
+
+### الوكلاء المتاحة
+
+- **IntelligentDecisionEngine** - تحديث أداة واجهة مثالية
+- **BugBountyWorkflowManager** - إدارة تدفقات bug bounty
+- **CTFWorkflowManager** - راللبو التحديات
+- **CVEIntelligenceManager** - مراقبة البرمجيات
+- **VulnerabilityCorrelator** - اكتشاف عمليات الهجوم
+
+### المزيد من الملفات
+
+- **الراد للمعرفة الكاملة**: قم بزيارة [README.md](./README.md) للمزيد من البيانات بالانجليزية.
+
+### الممليات
+
+- استوبهم بى ميتاقبهم (Discord, LinkedIn)
+- برخصا باللمشروع الررافع بالتطبيقات
+- اختبر والمساهمة في تطوير النظام
+
+---
+
+**شربالمنطبقة** | **[English Version](./README.md)**
+
 </div>
